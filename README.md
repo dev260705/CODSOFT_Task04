@@ -1,3 +1,3 @@
-# CODSOFT_Task04
+# Rock Paper Scissor
 
-This is My Task04 of CodSoft Internship Training
+This is a Rock Paper Scissor Game 
